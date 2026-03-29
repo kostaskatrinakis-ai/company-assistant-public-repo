@@ -1,6 +1,15 @@
 # Company Assistant Web
 
 AI-assisted field operations platform for service and maintenance companies, combining role-based dashboards, work orders, reminders, and a Codex-powered assistant available in the app, WhatsApp, and iMessage.
+## Screenshots
+
+### Dashboard
+
+![Dashboard](public/screenshot-dashboard.png)
+
+### Assistant
+
+![Assistant](public/screenshot-assistant.png)
 
 ## What it is
 
@@ -112,11 +121,3 @@ To run it correctly:
 4. Auth0 callback and internal user sync for production sign-in
 5. PostgreSQL deployment wiring and migrations flow
 6. ## Screenshots
-
-### Dashboard
-
-![Dashboard](public/screenshot-dashboard.png)
-
-### Assistant
-
-![Assistant](public/screenshot-assistant.png)
