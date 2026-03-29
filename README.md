@@ -3,13 +3,15 @@
 AI-assisted field operations platform for service and maintenance companies, combining role-based dashboards, work orders, reminders, and a Codex-powered assistant available in the app, WhatsApp, and iMessage.
 ## Screenshots
 
+## Screenshots
+
 ### Dashboard
 
-![Dashboard](public/screenshot-dashboard.png)
+![Dashboard](./public/screenshot-dashboard.png)
 
 ### Assistant
 
-![Assistant](public/screenshot-assistant.png)
+![Assistant](./public/screenshot-assistant.png)
 
 ## What it is
 
