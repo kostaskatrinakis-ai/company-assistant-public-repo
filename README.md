@@ -7,11 +7,11 @@ AI-assisted field operations platform for service and maintenance companies, com
 
 ### Dashboard
 
-![Dashboard](./public/screenshot-dashboard.png)
+![Dashboard](./screenshot-dashboard.png)
 
 ### Assistant
 
-![Assistant](./public/screenshot-assistant.png)
+![Assistant](./screenshot-assistant.png)
 
 ## What it is
 
