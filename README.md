@@ -111,3 +111,12 @@ To run it correctly:
 3. WhatsApp ingestion into the same domain model
 4. Auth0 callback and internal user sync for production sign-in
 5. PostgreSQL deployment wiring and migrations flow
+6. ## Screenshots
+
+### Dashboard
+
+![Dashboard](public/screenshot-dashboard.png)
+
+### Assistant
+
+![Assistant](public/screenshot-assistant.png)
