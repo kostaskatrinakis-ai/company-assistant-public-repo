@@ -1,10 +1,10 @@
 # Company Assistant Web
 
-Foundation slice for an AI-assisted operations system for service and maintenance companies, with role-based dashboards, local development setup, and infrastructure for assistant-driven workflows.
+AI-assisted field operations platform for service and maintenance companies, combining role-based dashboards, work orders, reminders, and a Codex-powered assistant available in the app, WhatsApp, and iMessage.
 
 ## What it is
 
-This app is designed for company operations, with a focus on day-to-day workflows.
+This app is designed as an operational system for service businesses, where technicians, owners, and admins can manage daily work through dashboards and assistant-driven workflows across the web app, WhatsApp, and iMessage.
 
 It supports roles such as:
 
